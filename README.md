@@ -6,6 +6,9 @@ put the symbol  in form of matrix coordinates and the board will be updated
 
 and displayed to you 
 
+
+To Run Locally: Clone the repository and run TicTacToe.java it contains the main function:
+
 For example : -
 
 Enter Player 1 Name:
